@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Тесты для метода PUT /pet" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-06-20T11:36:35" hostname="WIN-I9M0GB02MA1" time="1.529">
+  <properties/>
+  <testcase name="Тест проверки метода PUT /pet с кодом 200" classname="tests.pet_tests.PutPetTests" time="1.028"/>
+  <testcase name="Тест проверки метода PUT /pet с кодом 400" classname="tests.pet_tests.PutPetTests" time="0.5"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

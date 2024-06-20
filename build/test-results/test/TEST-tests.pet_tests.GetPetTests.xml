@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Тесты для метода GET /pet/{pet_id}" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-06-20T11:36:28" hostname="WIN-I9M0GB02MA1" time="2.522">
+  <properties/>
+  <testcase name="Тест проверки метода GET /pet/{pet_id} с кодом 200" classname="tests.pet_tests.GetPetTests" time="0.571"/>
+  <testcase name="Тест проверки метода GET /pet/{pet_id} с кодом 404" classname="tests.pet_tests.GetPetTests" time="0.574"/>
+  <testcase name="Тест проверки json схемы ответа метода GET /pet/{pet_id}" classname="tests.pet_tests.GetPetTests" time="1.373"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
